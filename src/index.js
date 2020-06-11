@@ -1,7 +1,7 @@
 var app = new Vue({
   el: "#app",
   data: {
-    message: "PICK ONE"
+    message: "Pick one ..."
   },
   methods: {
     sayYes() {
